@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👩‍🚀 About Me
 
-<!--
-**Marita21/Marita21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Mariela, a Thermal Engineer with over 10 years of experience in satellite systems.  
+I specialize in spacecraft thermal design and data-driven simulation using Python.
 
-Here are some ideas to get you started:
+🔬 Areas of interest:
+- Thermal control for space missions
+- Radiative heat transfer
+- Python-based engineering tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 Projects:
+- SIM-ORBIT: Orbital simulation with Cartopy
+- ThermalDesign: CubeSat FDM thermal model
+- View-factor: Radiative coupling between surfaces
+- Flux-in-Satellite: Albedo and IR flux modeling
